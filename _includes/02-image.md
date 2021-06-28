@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Maki Zen'in](https://i.redd.it/buqewhp9ld371.jpg)
